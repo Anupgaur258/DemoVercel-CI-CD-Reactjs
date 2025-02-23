@@ -28,6 +28,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
+      <p> this is a new V2 version of React for Ci/Cd learning (ANUP KUMAR)</p>
     </>
   )
 }
